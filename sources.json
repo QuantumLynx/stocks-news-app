@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Yahoo Finance Top Stories",
+        "url": "https://finance.yahoo.com/rss/topstories",
+        "type": "rss"
+    },
+    {
+        "name": "Investing.com News",
+        "url": "https://www.investing.com/rss/news.rss",
+        "type": "rss"
+    },
+    {
+        "name": "TradingView General News",
+        "url": "https://www.tradingview.com/news/headlines/?language=en",
+        "type": "rss"
+    },
+    {
+        "name": "Reuters Business News",
+        "url": "http://feeds.reuters.com/reuters/businessNews",
+        "type": "rss"
+    },
+    {
+        "name": "MarketWatch Top Stories",
+        "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+        "type": "rss"
+    },
+    {
+        "name": "CNBC Top News",
+        "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+        "type": "rss"
+    },
+    {
+        "name": "Seeking Alpha Market News",
+        "url": "https://seekingalpha.com/api/sa/news/tag/market-news",
+        "type": "rss"
+    },
+    {
+        "name": "Google News - Finance (US)",
+        "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en",
+        "type": "rss"
+    },
+    {
+        "name": "NPR Business",
+        "url": "https://feeds.npr.org/1006/rss.xml",
+        "type": "rss"
+    },
+    {
+        "name": "Financial Post",
+        "url": "https://financialpost.com/feed/",
+        "type": "rss"
+    }
+]
