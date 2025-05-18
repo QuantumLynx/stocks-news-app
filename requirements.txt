@@ -1,3 +1,11 @@
-feedparser>=6.0.0
-yfinance>=0.2.3
-colorama>=0.4.6 
+# Core dependencies
+rich>=12.5.1
+requests>=2.28.1
+textual>=0.9.1
+yfinance>=0.1.74
+feedparser>=6.0.10
+pandas>=1.5.1
+lxml>=4.9.1
+
+# Optional dependencies
+pytest>=7.0.0

@@ -12,3 +12,4 @@ class Article:
     source: str
     tickers: Optional[List[str]] = None
     ticker_prices: Optional[Dict[str, float]] = None
+    primary_ticker: Optional[str] = None
